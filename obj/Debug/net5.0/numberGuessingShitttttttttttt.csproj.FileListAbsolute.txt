@@ -1,0 +1,16 @@
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\bin\Debug\net5.0\numberGuessingShitttttttttttt.exe
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\bin\Debug\net5.0\numberGuessingShitttttttttttt.deps.json
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\bin\Debug\net5.0\numberGuessingShitttttttttttt.runtimeconfig.json
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\bin\Debug\net5.0\numberGuessingShitttttttttttt.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\bin\Debug\net5.0\numberGuessingShitttttttttttt.dll
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\bin\Debug\net5.0\ref\numberGuessingShitttttttttttt.dll
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\bin\Debug\net5.0\numberGuessingShitttttttttttt.pdb
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\numberGuessingShitttttttttttt.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\numberGuessingShitttttttttttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\numberGuessingShitttttttttttt.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\numberGuessingShitttttttttttt.AssemblyInfo.cs
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\numberGuessingShitttttttttttt.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\numberGuessingShitttttttttttt.dll
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\ref\numberGuessingShitttttttttttt.dll
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\numberGuessingShitttttttttttt.pdb
+C:\Users\tyler\source\repos\numberGuessingShitttttttttttt\obj\Debug\net5.0\numberGuessingShitttttttttttt.genruntimeconfig.cache
